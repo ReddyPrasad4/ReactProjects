@@ -1,0 +1,32 @@
+{
+  "user": [
+    {
+      "id": "d55e",
+      "name": "prasad",
+      "email": "8074702562",
+      "phone": "123456789",
+      "password": "100"
+    },
+    {
+      "id": "42e3",
+      "name": "prasad",
+      "email": "ABCD@gamil.com",
+      "phone": "78841",
+      "password": "14785"
+    },
+    {
+      "id": "01fd",
+      "name": "aaaaa",
+      "email": "lam123@gamil.com",
+      "phone": "789456",
+      "password": "7845"
+    },
+    {
+      "id": "7b96",
+      "name": "abcd",
+      "email": "ABCD@gamil.com",
+      "phone": "12456789",
+      "password": "123"
+    }
+  ]
+}

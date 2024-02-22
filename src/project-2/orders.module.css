@@ -1,0 +1,43 @@
+.mainContainer{
+    height: 90vh;
+    width: 100%;
+    background-color: beige;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.container{
+    height: 600px;
+    width: 500px;
+    background-color: rgba(128, 128, 128, 0.929);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px black;
+
+}
+.inputBoxes{
+    height: 40px;
+    width: 70%;
+    border: none;
+    outline: none;
+    font-size: 25px;
+    padding-left: 10px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px black;
+}
+.submitButton{
+    height: 50px;
+    width: 220px;
+    font-size: 24px;
+    font-weight: bold;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 2px 2px 5px black;
+}
+.submitButton:hover{
+    background-color: black;
+    color: white;
+}
